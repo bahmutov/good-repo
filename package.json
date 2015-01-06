@@ -41,6 +41,8 @@
   },
   "devDependencies": {
     "grunt": "0.4.5",
-    "grunt-filenames": "0.2.0"
-  }
+    "grunt-filenames": "0.2.0",
+    "pre-git": "0.1.1"
+  },
+  "pre-commit": "npm version"
 }
