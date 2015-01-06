@@ -13,5 +13,5 @@ if (module.parent) {
   console.log(pkg.name + '@' + pkg.version, '-', pkg.description);
 
   var options = require('./src/cli');
-  goodRepo(options);
+  goodRepo(options).done();
 }
