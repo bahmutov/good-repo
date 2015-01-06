@@ -34,6 +34,7 @@
     "check-types": "1.4.0",
     "commander": "2.6.0",
     "dont-break": "0.1.0",
+    "git-and-npm": "0.0.2",
     "lazy-ass": "0.5.3",
     "quote": "0.2.2",
     "update-notifier": "0.2.2"
